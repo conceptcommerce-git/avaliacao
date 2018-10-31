@@ -1,0 +1,74 @@
+/* icones */
+.lock {display: none !important;}
+.call {display: none !important;}
+
+/* topheader */
+.topbar {
+	background: #f5f5f5;
+    margin: 0px;
+}
+
+/* menu */
+.menuheader {
+    background-color: #006eba;
+}
+
+/* botão carrinho */
+.ui.basic.button {border-radius: 0;}
+.ui.button.primary {background-color: #006eba !important;}
+
+/* busca */
+.search .ui.fluid.input {
+    width: 70% !important;
+    margin: 0 auto;
+}
+.ui.search .prompt {
+    border-radius: 0;
+}
+
+/* filtro de categorias */
+.groupList .segment {border-bottom: 5px solid #006eba;}
+.filtros .ui.accordion .title.active {
+	border-top: 3px solid #006eba;
+    border-bottom: 3px solid #006eba;
+}
+.dollar {color: #006eba;}
+.filtros .ui.accordion .title {box-shadow: inset 3px 0 0 #006eba;}
+
+/* detalhes do produto */
+.infoProduto .blocoInfo .blocoValores {
+    border-right: 4px solid #006eba;
+    border-bottom: none;
+}
+#pagamento-calculado .formas-pagamento {
+	border-right: 4px solid #006eba;
+	border-bottom: 1px solid #d4d4d5 !important;
+}
+.ui.secondary.pointing.menu .active.item {
+	border: 2px solid;
+	border-color: #006eba;
+}
+.menu.tabular .item {
+	color: #006eba !important;
+	font-weight: bold;
+}
+.ui.secondary.pointing.menu .item:hover {
+    border-color: #006eba;
+}
+.menu.tabular .item:hover {
+	color: #006eba !important;
+    font-weight: bold;
+}
+.infoProduto .avaliacoes {float: left;}
+
+
+/* footer */
+
+/* barra de news */
+.newsletter-bar {background: #006eba;}
+.newsletter-bar span.text {color: #fff;}
+.newsletter-bar .inline #btn_news {background: #666;}
+
+/* rodape */
+.footer .list.link a {color: #fff !important;}
+.footer .tireDuvidas {background: #666;}
